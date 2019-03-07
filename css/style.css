@@ -47,3 +47,14 @@ section{
     background: #43a58b;
     min-height: 55vh;
 }*/
+
+.welcomesty{
+    padding-top:45vh; 
+    font-size: 2em;
+    background: #e0ebe8;
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+    color: green;
+}
