@@ -29,3 +29,9 @@ li a:hover:not(.active) {
 #welcome-section{
     height: 100%;
 }
+
+#navbar {
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}​
